@@ -1,49 +1,15 @@
-# Hey, what’s up? I am Iago 🖖:
-<br>• 💼 I’m currently working on FullStack development<br>• 👨🏻‍💻 I’m currently learning Laravel<br>• 🖥️ I’m looking to collaborate on Back-End Projects<br>• 🤔 I’m looking for help with Laravel<br>• 🤖 Developer: A machine that turns coffee into code.
-
-# 📫 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iagoborelli.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iagoborelli)  [![Portfolio](https://img.shields.io/badge/🖥Portfolio-purple)](https://iagoborelli.bohr.io)
-
-# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/>  Technologies That I Know
-
-<table align="center"><tr><td valign="top" width="25%">
-
-<div align="center"><h3>Frontend</h3></div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,vue&theme=dark&perline=3" />
-</p>
-
-</td><td valign="top" width="25%">
-
-<div align="center"><h3>Backend</h3></div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,&theme=dark&perline=2" />
-</p>
-
-</td><td valign="top" width="25%">
-
-<div align="center"><h3>Database</h3></div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&perline=3" />
-</p>
-
-</td><td valign="top" width="25%">
-
-<div align="center"><h3>Tools</h3></div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,postman,obsidian,figma&theme=dark&perline=3" />
-</p>
+# 💫 About Me:
+- 🔭 I’m currently working on **data analyst**  <br>  <br>- 🌱 I’m currently learning **data analysis techniques**  <br>  <br>- 👯 I’m looking to collaborate on **data analyst projects**  <br>  <br>- 🤝 I’m looking for help with **data science**  <br>  <br>- 👨‍💻 All of my projects are available at [https://github.com/wtvieira](https://github.com/wtvieira)  <br>  <br>- 📄 Know about my experiences [https://www.linkedin.com/in/william-trindade-vieira/](https://www.linkedin.com/in/william-trindade-vieira/)  <br>  <br>- 💬 Ask me about **SQL, Python, etc.**  <br>  <br>- 📫 How to reach me **william.trindade010@gmail.com**  
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/william-trindade-vieira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:william.trindade010@gmail.com) 
 
-</td></tr></table>
-<br/><br/>
-
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![Iago Borelli GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoborelli&hide_border=false&include_all_commits=true&rank_icon=github&theme=react&hide=contribs) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoborelli&theme=react&hide_border=false&include_all_commits=true&layout=compact&hide=css)
+![](https://github-readme-stats.vercel.app/api?username=wtvieira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wtvieira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wtvieira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
