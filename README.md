@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **data analyst**  <br>  <br> - 🌱 I’m currently learning **data analysis techniques**  <br>  <br> - 👯 I’m looking to collaborate on **data analyst projects**  <br>  <br> - 🤝 I’m looking for help with **data science**  <br>  <br> - 👨‍💻 All of my projects are available at [https://github.com/wtvieira](https://github.com/wtvieira)  <br>  <br> - 📄 Know about my experiences [https://www.linkedin.com/in/william-trindade-vieira/](https://www.linkedin.com/in/william-trindade-vieira/)  <br>  <br> - 💬 Ask me about **SQL, Python, etc.**  <br>  <br> - 📫 How to reach me **william.trindade010@gmail.com**  
+Hi 👋, I'm William Trindade Vieira<br><br><p>I am a passionate data analyst motivated by new challenges and I am always looking to learn and apply new technologies to solve complex problems in a creative and efficient way.</p><br><br>🔭 I’m currently working on  data analyst<br>👯 I’m looking to collaborate on data analyst projects<br>🤝 I’m looking for help with data science<br>🌱 I’m currently learning data analysis techniques <br>💬 Ask me about SQL, Python, etc.<br>
 
 
 ## 🌐 Socials:
